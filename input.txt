@@ -1,0 +1,7 @@
+hello world
+dataflow is amazing
+apache beam
+google cloud platform
+learn and innovate
+python programming
+text processing
